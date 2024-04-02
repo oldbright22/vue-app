@@ -9,7 +9,7 @@ https://github.com/oldbright22/vue-app
 
 
 # Checkout LIVE Video - How it works
-
+https://youtu.be/96kV3YxcoFQ
 
 # vue-app
 > This app intends to demonstrate how to generate images using openAI - Dall-e-3 - Machine Learning Component
