@@ -1,4 +1,5 @@
 # Workflow - Dynamic Creative Optimization
+System Design - Spec: https://github.com/oldbright22/vue-app/blob/main/System%20Design%20-%20DCO%20-%20Berenisse%20Oldright.pdf
 ![img.png](img.png)
 
 This example will focus on exercise the component/service related to MachineLearning.
