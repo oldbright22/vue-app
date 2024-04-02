@@ -1,7 +1,8 @@
 # Workflow - Dynamic Creative Optimization
 ![img.png](img.png)
 
-This examples focuses on the MACHINE LEARNING component.
+This example will focus on exercise the component/service related to MachineLearning.
+
 
 # Download Code from GitHub
 https://github.com/oldbright22/vue-app
@@ -37,8 +38,16 @@ Example of Image URL produced
 #https://platform.openai.com/docs/models/gpt-3-5-turbo
 #gpt-3.5-turbo-0125   - Latest as of SEP-2021  FREE
 
-## Trigger Live Server
-![alt text](_KickStart-LiveServer.png)
+
+
+### INSTALLATION STEPS
+
+
+## Installation Vue
+Follow recommended steps per video
+https://www.youtube.com/watch?v=P4BmSvAry-c
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
 ## Build Setup
@@ -65,14 +74,17 @@ npm install
 #├── vue@3.4.21
 #└── webpack@5.90.3
 
+```
 
+## Trigger Live Server
+![alt text](_KickStart-LiveServer.png)
+
+
+## NPM run or build
+```
 # serve with hot reload at localhost:8080
 npm run serve
 
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
