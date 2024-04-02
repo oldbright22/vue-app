@@ -94,7 +94,7 @@
       //Initialize UI fields - notify end-user his/her request is under processing 
       showLoadingIndicator();
       
-      //trigger aut0
+      //sequence of actions, auto-triggered per user input
       var title = fetchTitle(userInput.value);    
       fetchImagePrompt(title,userInput.value);
 
